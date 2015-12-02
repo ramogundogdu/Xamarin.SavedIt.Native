@@ -1,0 +1,15 @@
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\bin\iPhone\Debug\Savedit.exe
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\bin\iPhone\Debug\Savedit.pdb
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\ibtool\LaunchScreen.nib
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\ibtool\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\ibtool\Main.storyboardc\Info.plist
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\optimized\
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\optimized\Entitlements.plist
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\Savedit.exe
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\Savedit.pdb
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\ibtool\Main.storyboardc\147-view-148.nib
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\ibtool\Main.storyboardc\UINavigationController-33.nib
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\ibtool\Main.storyboardc\UITableViewController-147.nib
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\Savedit.csprojResolveAssemblyReference.cache
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\obj\iPhone\Debug\Savedit.exe.mdb
+c:\users\gsg-nb\documents\visual studio 2015\Projects\Savedit\Savedit\bin\iPhone\Debug\Savedit.exe.mdb

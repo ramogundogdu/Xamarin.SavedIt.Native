@@ -1,0 +1,10 @@
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\bin\Debug\SavedIt.Portable.dll
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\bin\Debug\SavedIt.Portable.pdb
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\obj\Debug\SavedIt.Portable.dll
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\obj\Debug\SavedIt.Portable.pdb
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\bin\Debug\SQLite.Net.dll
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\obj\Debug\SavedIt.Portable.csprojResolveAssemblyReference.cache
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\obj\Debug\SavedIt.Portable.dll.mdb
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\bin\Debug\SavedIt.Portable.dll.mdb
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\obj\Debug\SavedIt.Portable.dll.mdb
+C:\Users\GSG-NB\Documents\Visual Studio 2015\Projects\SavedIt\SavedIt.Portable\bin\Debug\SavedIt.Portable.dll.mdb

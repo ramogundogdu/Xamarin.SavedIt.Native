@@ -1,0 +1,12 @@
+SavedIt.Droid.DetailActivity, SavedIt.Droid;md5d82c757511e57fbd5145c2fbaae83c9b.DetailActivity
+SavedIt.Droid.DetailActivity, SavedIt.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d82c757511e57fbd5145c2fbaae83c9b.DetailActivity
+SavedIt.Droid.DetailActivity;md5d82c757511e57fbd5145c2fbaae83c9b.DetailActivity
+savedit.droid.DetailActivity;md5d82c757511e57fbd5145c2fbaae83c9b.DetailActivity
+SavedIt.Droid.SavedItemAdapter, SavedIt.Droid;md5d82c757511e57fbd5145c2fbaae83c9b.SavedItemAdapter
+SavedIt.Droid.SavedItemAdapter, SavedIt.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d82c757511e57fbd5145c2fbaae83c9b.SavedItemAdapter
+SavedIt.Droid.SavedItemAdapter;md5d82c757511e57fbd5145c2fbaae83c9b.SavedItemAdapter
+savedit.droid.SavedItemAdapter;md5d82c757511e57fbd5145c2fbaae83c9b.SavedItemAdapter
+SavedIt.Droid.MainActivity, SavedIt.Droid;md5d82c757511e57fbd5145c2fbaae83c9b.MainActivity
+SavedIt.Droid.MainActivity, SavedIt.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d82c757511e57fbd5145c2fbaae83c9b.MainActivity
+SavedIt.Droid.MainActivity;md5d82c757511e57fbd5145c2fbaae83c9b.MainActivity
+savedit.droid.MainActivity;md5d82c757511e57fbd5145c2fbaae83c9b.MainActivity
